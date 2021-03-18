@@ -1,8 +1,8 @@
 ### Hi!
 
-🔭 I’m currently working on ... small-scale NLP projects.
-🌱 I’m currently reading ... Under a White Sky: The Nature of the Future by Elizabeth Kolbert.
-💬 Ask me about ... R!
+- 🔭 I’m currently working on ... small-scale NLP projects.
+- 🌱 I’m currently reading ... Under a White Sky: The Nature of the Future by Elizabeth Kolbert.
+- 💬 Ask me about ... R!
 
 <!--
 **hilayla/hilayla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
